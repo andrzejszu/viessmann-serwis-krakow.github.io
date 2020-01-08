@@ -1,0 +1,83 @@
+
+.viessmannorange {
+    color: orangered;
+}
+
+.bgviessmannorange {
+    background-color: orangered;
+}
+
+.columnreverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.navbgcolor {
+    background-color: rgb(232, 232, 232);
+}
+
+.navbgcolorcol {
+    background-color: rgb(232, 232, 232);
+    transition: 400ms;
+}
+
+.navbgcolorcol:hover {
+    background-color: orangered;
+}
+
+.opacity80 {
+    opacity: 80%;
+}
+
+.font11rem {
+    font-size: 1.1rem;
+}
+
+.font08rem {
+    font-size: 0.8rem;
+}
+
+.headerheight {
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.width90 {
+    width: 90%;
+}
+
+.containerpx50 {
+    height: 50px;
+}
+
+.width33 {
+    width: 33%;
+}
+
+.buttonkontakt {
+    display: flex;
+    align-self: flex-end;
+}
+
+.width90 {
+    width: 90%;
+}
+
+.mainh1bg {
+    background-image: url('../../images/viessmann-serwis-kotlow.png');
+    background-size: auto;
+}
+
+.footerheight {
+    height: 70px;
+}
+
+.font2rem {
+    font-size: 2rem;
+}
+
+.font25rem {
+    font-size: 2.5rem;
+}
+
